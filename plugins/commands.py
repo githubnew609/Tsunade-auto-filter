@@ -158,7 +158,7 @@ async def start(client, message):
                           
                           InlineKeyboardButton('📣Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Komassistantbot")
+                          InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Moviestore_admin_bot")
                          ]
                         ]
                     )
@@ -304,7 +304,7 @@ async def start(client, message):
               
               InlineKeyboardButton('📣Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Komassistantbot")
+              InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Moviestore_admin_bot")
              ]
             ]
         )
