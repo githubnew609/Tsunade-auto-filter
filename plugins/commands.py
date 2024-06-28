@@ -156,9 +156,9 @@ async def start(client, message):
                         [
                          [
                           
-                          InlineKeyboardButton('📣Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
+                          InlineKeyboardButton('📣 Jᴏɪɴ Cʜᴀɴɴᴇʟ 📣', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Moviestore_admin_bot")
+                          InlineKeyboardButton("📀 Oᴛᴛ Uᴘᴅᴀᴛᴇs 📀", url="t.me/+k1Qmq23J-Ww4NDJl")
                          ]
                         ]
                     )
@@ -175,9 +175,9 @@ async def start(client, message):
                         [
                          [
                          
-                          InlineKeyboardButton('📣Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
+                          InlineKeyboardButton('📣 Jᴏɪɴ Cʜᴀɴɴᴇʟ 📣', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Moviestore_admin_bot")
+                          InlineKeyboardButton("📀 Oᴛᴛ Uᴘᴅᴀᴛᴇs 📀", url="t.me/+k1Qmq23J-Ww4NDJl")
                          ]
                         ]
                     )
@@ -302,9 +302,9 @@ async def start(client, message):
             [
              [
               
-              InlineKeyboardButton('📣Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
+              InlineKeyboardButton('📣 Jᴏɪɴ Cʜᴀɴɴᴇʟ 📣', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Moviestore_admin_bot")
+              InlineKeyboardButton("📀 Oᴛᴛ Uᴘᴅᴀᴛᴇs 📀", url="t.me/+k1Qmq23J-Ww4NDJl")
              ]
             ]
         )
